@@ -1,0 +1,8 @@
+{
+  "name": "chatgpt-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rTonyCloud/ChatGPT.git",
+  "author": "<rtonycloud@gmail.com>",
+  "license": "MIT"
+}

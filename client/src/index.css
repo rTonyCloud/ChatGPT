@@ -1,0 +1,18 @@
+:root {
+
+  --color-primary: #646cff;
+  --color-primary-light: #8c8cff;
+}
+
+
+body {
+  margin: 0;
+  --webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html ::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
